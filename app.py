@@ -4,6 +4,7 @@ import csv
 app = Flask(__name__)
 CSV_FILE = "index.csv"
 
+# Read CSV into a list of dictionaries
 def read_csv():
     with open(CSV_FILE, newline='', encoding='utf-8') as f:
         return list(csv.DictReader(f))
@@ -18,7 +19,11 @@ def search():
     data = read_csv()
 
     if query:
-        results = [row for row in data if any(query in str(value).lower() for value in row.values())]
+        # Search across all columns for partial match
+        results = [
+            row for row in data
+            if any(query in str(value).lower() for value in row.values())
+        ]
     else:
         results = data
 
