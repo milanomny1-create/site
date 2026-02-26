@@ -68,7 +68,7 @@
                 // Dynamically create HTML for all columns
                 let html = "";
                 for (const [key, value] of Object.entries(row)) {
-                    html += `<p><strong>${key}:</strong> ${value}</p>`;
+                    html += `<p><strong>${key.trim()}:</strong> ${value}</p>`;
                 }
 
                 card.innerHTML = html;
