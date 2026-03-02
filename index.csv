@@ -206,10 +206,3 @@ VEN198,Ven Madakumbure Somananda Thero
 VEN199,Ven Alawathugama Pgnasiri Thero
 VEN200,Ven Thalalle Chandkitthi Thero
 VEN201,Ven Wathurakumbure Dammarathana Thero
-
-{ "start": "::", "output": "None .mp3" },  { "start": "::", "output": "{VEN} - {date}.mp3" },
-{ "start": "::", "output": "None .mp3" },  { "start": "::", "output": "{VEN} - {date}.mp3" },
-{ "start": "::", "output": "None .mp3" },  { "start": "::", "output": "{VEN} - {date}.mp3" },
-{ "start": "::", "output": "None .mp3" },  { "start": "::", "output": "{VEN} - {date}.mp3" },
-
-
