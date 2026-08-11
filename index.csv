@@ -3,14 +3,14 @@ VEN01,Ven Kuttikulam Premalankaa Thero
 VEN02,Ven Koralegama Ghanawasa Thero
 VEN03,Ven Doragamuwe Rathanasara Thero
 VEN04,Ven Kiriwaththuduwe Ariyadara Thero
-VEN05,Ven Katiyyawe Ananda Thero
+VEN05,Ven Katiyawe Ananda Thero
 VEN06,Ven Polgahawela Mithabhani Thero
 VEN07,Pattana Deshanawa - Rev Kiriwaththuduwe Ariyadassaa Thero
 VEN08,Ven Rathgama Suneetha Thero
-VEN09,Ven Mapegamuwe Deepanana Thero
+VEN09,Ven Sinhalapura Indarathana Thero
 VEN10,Ven Kadulawa Ariyawansa Thero
 VEN11,Ven Athuela Dhammagawei Thero
-VEN12,Ven Doragamuwe Rathanasaa Thero
+VEN12,Ven Pussellayaye Chandima Thero
 VEN13,Ven Kakirawe Sudaththa Thero
 VEN14,Ven Lunugamwehera Naradha Thero
 VEN15,Ven Meegamawaththe Wimalajoti Thero
@@ -18,7 +18,7 @@ VEN16,Ven Pelwatte Seewale Thero
 VEN17,Ven PuwakHane Sumangalarathaa Thero
 VEN18,Rev Kotaganwalle Saranathissa Thero 
 VEN19,Ven Kotikawatte Dhammakusala Thero
-VEN20,Ven Mapegamuwe DeepaNandaa Thero
+VEN20,Ven Ududhunbara Maliyadeya Thero
 VEN21,Ven Thalpawila Kusala Thero
 VEN22,Ven Kiriwaththuduwe Ariyadara Thero
 VEN23,Ven Ilwane Ananda Thero
@@ -31,7 +31,7 @@ VEN29,Ven Kiriwaththuduwe Ariyadassaa Thero
 VEN30,Ven Athuela Dhammagawei Thero
 VEN31,Ven Doragamuwe Rathanasaa Thero
 VEN32,Ven wadunne Gnanawimala Thero
-VEN33,Ven Puwakpitiye Sumangalarathana Thero
+VEN33,
 VEN34,Ven Wariyapola Wishudhi Thero
 VEN35,Ven Kuttikulam Premalankara Thero
 VEN36,Ven Mapegamuwe Deepananda Thero
@@ -45,10 +45,16 @@ VEN42,Ven Aluthgama Pannasara Thero
 VEN43,Ven Athuela Dammagawesi Thero
 VEN44,Ven Munnakulame Dammanada Thero - Jathika pothen Jeewitha pothata
 VEN44a,Ven Pannala Dammisara Thero - Jathika pothen Jeewitha pothata
+VEN44b,Ven Mathale Ananda Thero - Jathika pothen Jeewitha pothata
+VEN44c,Ven Thamaraduwe Padama jothi Thero - Jathika pothen Jeewitha pothata
+VEN44d,Ven Rajanganaye Sumanasara Thero - Jathika pothen Jeewitha pothata
+VEN44e,Ven Rajasinghagama Thilakadamma Thero - Jathika pothen Jeewitha pothata
+VEN44f,Ven Kakirawe Sudaththa Thero - Jathika pothen Jeewitha pothata
 VEN45,Ven Waliwita Pangha Thero
 VEN46,Ven Seevalipura Dhammobhasa Thero
+VEN46a,Ven Seevalipura Dhammobhasa Thero - Jathika pothen Jeewitha pothata
 VEN47,Ven Hagarangala Sumedha Thero
-VEN48,Ven Iddamalgoda Vajiragnana Thero'
+VEN48,Ven Iddamalgoda Vajiragnana Thero
 VEN49,Ven Madahapola Aanurudhdha Nayaka Thero
 VEN50,Ven Vilachchiye Dhammavijaya Thero
 VEN51,Ven Madihe Sugathasiri Thero
@@ -57,7 +63,8 @@ VEN53,Ven Mellegama Piyarathana Thero
 VEN54,Ven Ampitiye Dammasidhi Thero
 VEN55,Ven Sabala Jinodaya Thero
 VEN56,Ven Galkisse Somananda Thero
-VEN57,Ven Halmillakulame Sujathagnana Thero - Sadhaham Thakshalawa
+VEN57a,Ven Halmillakulame Sujathagnana Thero - Sadhaham Thakshalawa
+VEN57,Ven Halmillakulame Sujathagnana Thero
 VEN58,Ven Meegoda Sukitha Thero
 VEN59,Ven Koralayagama Saranathissa Thero
 VEN60,Ven Koralayagama Saranathissa Thero - Dhamma Nadeethitha Deshana
@@ -69,7 +76,7 @@ VEN64a,Ven Radhawadunne Gnanawimala Thero
 VEN65,Ven Kohowala Upananda Thero
 VEN66,Ven Kotaneluwe Punnananda Thero
 VEN67,Ven Higure Pannasekara Thero
-VEN68,Ven Lenawala Thapassi Thero
+VEN68,Ven Lenwala Thapassi Thero
 VEN69,Ven Radhawe Weeradamma Thero 
 VEN70,Ven Mellegama Piyarathana Thero
 VEN71,Ven Kalaniye Kalyanavansha Thero
@@ -88,9 +95,9 @@ VEN82,Ven Seewalipura Siridamma Udesha Thero
 VEN83,Ven Neluwakande Gnanananda Thero
 VEN84,Ven Olaganwatte Chandrasiri Thero
 VEN85,Ven Maankadhawala Samahitha Thero
-VEN86,Ven Delwala Saranasiri Thero
+VEN86,Ven Delwala Sarsiyaanasiri Thero
 VEN87,Ven Kandegedara Sobitha Thero
-VEN88,Ven Kelaniye Sasanawansa Thero
+VEN88,Ven Kalaniye Sasanawansa Thero
 VEN89,Ven Siyabalagoda Damminda Thero
 VEN90,Ven Karaputugala Rewatha Thero
 VEN91,Ven Denike Ananda Thero
@@ -111,12 +118,12 @@ VEN105,Ven Madhawachichie Damma Kiththi Thero
 VEN106,Ven Kohuwala Upananda Thero
 VEN107,Ven Hendala Damitha Thero
 VEN108,Ven Udagabbala Jinodhaya Thero
-VEN109,Ven Dehipe chandawimala Thero
+VEN109,Ven Dehipe Chandawimala Thero
 VEN110,Ven Kothmale Kumara Kashyapa Thero
 VEN111,Ven Nugayaye Saranankara Thero
 VEN112,Ven Uduhawara Indasiri Thero
 VEN113,Ven Welimada Saradha Thero
-VEN114,Ven BathalaYaye Sumanajeeva Thero
+VEN114,Ven Bathalayaye Sumanajeeva Thero
 VEN115,Ven Thalagala Damma Gavesi Thero
 VEN116,Ven Weherakale Saddhalankara Thero
 VEN117,Ven Udakotuwe Sugathadheera Thero
@@ -137,7 +144,7 @@ VEN131,Ven Hulawagama Aggawansha Thero
 VEN132,Ven Balangoda Raadha Thero
 VEN133,Ven Ridiyagama Indaloka Thero
 VEN134,Ven Dodanduwe Sirikara Thero
-VEN135,Ven Dehiowita Wijithawansha Thero
+VEN135,Ven Dehiowita Vijithawansha Thero
 VEN136,Ven Pusaellaye Chandhima Thero
 VEN137,Ven Atthanagalla Revatha Thero
 VEN138,Ven Polonnaruwe Sumanasara Thero
@@ -206,6 +213,13 @@ VEN198,Ven Madakumbure Somananda Thero
 VEN199,Ven Alawathugama Pgnasiri Thero
 VEN200,Ven Thalalle Chandkitthi Thero
 VEN201,Ven Wathurakumbure Dammarathana Thero
+VEN202,Ven Madahapola Anuruddhagamage Thero
+VEN203,Ven Thamaraduwe Padama jothi Thero
+VEN204,Ven Widhanegama Ananda Thero
+VEN205,Ven Dalugama SamithaGnana Thero
+VEN206,Ven Meepagama Sangarathana Thero
+VEN207,Ven Naranpanawe Srisumanathissa Thero
+VEN208,Ven Athanagoda Rewatha Thero
 VEN209,Hela Wedha Asapuwa
 VEN210,Ven Buthpitiye Samitha Thero
 VEN211,Ven Wilwala Nandarama Thero
@@ -219,3 +233,65 @@ VEN218,Ven Ranawa Dammakiththi Thero
 VEN219,Ven Galle Ganabhasha Thero
 VEN220,Ven Vilachchiye Pganaloka Thero
 VEN221,Ven Kumaraeliye Sugathananda Thero
+VEN222,Ven Walpola Gunarathana Thero
+VEN223,Ven Gampaha Nandarathana Thero
+VEN224,Ven Kethsirigama Sangananda Thero
+VEN225,Ven Bibile Gunanda Thero
+VEN226,Ven Seruvila Samadhi Thero
+VEN227,Ven Daaswathe Sumanaseela Thero
+VEN228,Ven Kalawane Sangamagi Thero
+VEN229,Ven Madawala saranapala Thero
+VEN230,Ven Thamaraduwe Padama jothi Thero
+VEN231,Ven Kathnoruwe Siridamma Thero
+VEN232,Ven Walaswawe Somanananda Thero
+VEN233,Ven KovilaKade Dammalankara Thero
+VEN234,Ven Athurugiriye Anurudha Thero
+VEN235,Ven Kolaeliye Sudassi Thero
+VEN236,Ven Thapowanaye Rathana Thero
+VEN237,Ven Munakulame Dammalankara Thero
+VEN238,Ven Wadugedara Sarananda Thero
+VEN239,Ven Dematagoda Anomadassri Thero
+VEN240,Ven Kudagama Samitha Thero
+VEN241,Ven Puudalugasyaye Damma dassi Thero
+VEN242,Ven Rambawe Weeradamma Thero
+VEN243,Ven Unawatune Wanshananda Thero
+VEN244,Ven Mapegamuwe Deepananda Thero
+VEN245,Ven Aththidiye shanthadewa Thero
+VEN246,Ven Agulgamulwe Ariyananda Thero
+VEN247,Ven Bopitiye Sri Sudassi Thero
+VEN248,Ven Gallale Pgayasara Thero
+VEN249,Ven Mirisse Dammika Thero
+VEN250,Ven Ragama Kalyana Varuna Thero
+VEN251,Ven Matara Mahinda Thero
+VEN252,Ven Palankulame Premasiri Thero
+VEN253,Ven Eppawala Palitha Thero
+VEN254,Ven Konnakubuk Wawe pnana Thero
+VEN255,Ven Thalawe Sumanarathana Thero
+VEN256,Ven Hidulgama Siriwimala Thero
+VEN257,Ven Pannala Dammisara Thero
+VEN258,Ven BadalKumubure Thero
+VEN259,Ven Talpe Deerananda Thero
+VEN260,Ven Veherayaye Siri Suddamma Thero
+VEN261,Ven Udhupitiye Wimala Vishudhi Thero
+VEN262,Ven Galagedara Anurarathana Thero
+VEN263,Ven Unavatune Wanshawansha Thero
+VEN264,Ven Naapana Vijitha Thero
+VEN265,Ven Iginimitiye Naradha Thero
+VEN266,Ven Diyasenpura Wimala Thero
+VEN267,Ven Moragoda Medhananda Thero
+VEN268,Ven Kudaweligama Sumana Thero
+VEN269,Ven Kehelwala Nanada Thero
+VEN270,Ven Kandegedara Wimaladarma Thero
+VEN271,Ven Kotikawaththe Dammakusala Thero
+VEN272,Ven Kukulegama Shanatha Thero
+VEN273,Ven Borella Athula Thero
+VEN274,Ven Ambogama Sugathadeera Thero
+
+
+
+
+
+
+
+
+
